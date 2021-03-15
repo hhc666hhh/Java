@@ -35,7 +35,7 @@ public class guess2 {
 	}
 	if(success)
 	{
-		System.out.println("¹²²Â²â"+times+"´Î");
+		System.out.println("Â¹Â²Â²Ã‚Â²Ã¢"+times+"Â´ÃŽ");
 	}
 	scan.close();
 }
